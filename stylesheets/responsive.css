@@ -215,6 +215,15 @@
     left: 60%;
 
   }
+  .relax {
+    position: absolute;
+    display: block;
+    width: 200px;
+    height: 100px;
+    background: url('images/relax.png');
+
+
+  }
 
   .thedude img{
     position: absolute;
@@ -283,13 +292,304 @@
     left: 350px;
   }
 
+  .contentmid1 {
+    position: absolute;
+    width: 34%;
+    height: 450px;
+    bottom: 50px;
+    left: 90%;
+
+  }
+  .pacifp {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+}
+  .splash3 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .pacifpink2 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .drop1 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .pinkstarlined3 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .blackstar4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .wordrelax {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
   .content4 {
     position: absolute;
-    width: 30%;
-    height: 300px;
-    top: 0;
+    width: 34%;
+    height: 450px;
+    bottom: 50px;
     left: 120%;
+
   }
+  .ochist {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .splash4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .shag4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .pacifpink2 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .splash5 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .pacificblack2 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .univ {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .linestar1 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .pinkstar4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .blackstar5 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+
+  .pods {
+    position: absolute;
+    width: 34%;
+    height: 450px;
+    bottom: 50px;
+    left: 150%;
+  }
+  .podskazka {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .vimozh {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .linedstar2 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .drop2 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .flower4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .pinkstar5 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .pacificblack3 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .blackstar6 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .linedstar3 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .podskazka {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .whitestar3 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .content5 {
+    position: absolute;
+    width: 34%;
+    height: 450px;
+    bottom: 50px;
+    left: 180%;
+
+  }
+  .pacificblack4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .whitestar4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .blackstar7 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .blackstar8 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .drop3 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .pacifpink4 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .prolezhy {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .shag5 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+
+  .pict {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 220%;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   .sled2 {
     display: none;
     position: absolute;
@@ -297,15 +597,7 @@
     left: 60%;
     top: 14.6vw;
   }
-  .relax {
-    position: absolute;
-    display: block;
-    width: 200px;
-    height: 100px;
-    background: url('images/relax.png');
 
-
-  }
 @media only screen and (max-width: 1200px){
   .content1 {
 
