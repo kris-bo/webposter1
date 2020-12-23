@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'DIN Pro Condensed Bold';
+	src:
+		url('../fonts/din_pro_condensed_bold.ttf') format('truetype');
+	}
+	@font-face {
+		font-family: 'Gotham Pro Black';
+		src:
+		url('../fonts/GothaProBla.otf') format('opentype');
+	}
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'DIN Pro Condensed Bold', sans-serif;
+}
+
+h1 {
+
+font-family: DIN Pro Condensed Bold;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 58px;
+}
+h2 {
+  font-family: DIN Pro Condensed Bold;
+  font-size: 100px;
+line-height: 81px;
+
+}
+h3 {
+	font-family: Gotham Pro Black;
+  font-size: 80px;
+line-height: 50px;
+
+}
+h4 {
+	font-family: Gotham Pro Black;
+	font-size: 87px;
+	line-height: 100px;
+}
+h5 {
+	font-family: DIN Pro Condensed Bold;
+	font-size: 34px;
+line-height: 20px;
+
+}
+h6 {
+	font-family: Gotham Pro Black;
+	font-size: 25px;
+	line-height: 40px;
+
+}

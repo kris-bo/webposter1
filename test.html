@@ -3,41 +3,32 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <style media="screen">
-
-      .bg {
-        width: 160px;
-        height: 160px;
-        display: inline-block;
-        position: relative;
-        background: black;
-      }
-    .polosatext {
-      width: 1440px;
-      height: 800px;
+       <style media="screen">
+    .five {
+      width: 160px;
+      height: 160px;
       display: block;
       position: absolute;
       left: 0;
       top: 0;
-      background: url('polosatext.png');
-      background-position: -640px top;
-      animation: smile 10s  alternate infinite;
+      background: url('five1.png');
+      background-position: -70px ;
+      animation: lights 2s steps(1) infinite;
+      animation-play-state: running;
 
-    }
-    @keyframes polosatext {
-      0%{background-position: -160px top;}
-      33%{background-position: -320px top;}
-      66%{background-position: -479px top;}
-    }
-    </style>
+      @keyframes lights {
+        0%{background-position: -160px top;}
+        33%{background-position: -320px top;}
+        66%{background-position: -479px top;}
+      }
+
+      </style>
   </head>
   <body>
-    <div class="bg">
+    <div class="five lights">
 
-
-    <div class="polosatext">
 
     </div>
-      </div>
+
   </body>
 </html>

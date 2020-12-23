@@ -1,0 +1,507 @@
+@media only screen and (max-width: 1900px) {
+
+
+  .blocks {
+    padding-left: 18px;
+    padding-right: 18px;
+
+  }
+
+  .block1 {
+    width: 50%;
+    padding-top: 18px;
+    position: absolute;
+  }
+  .block2 {
+    position: absolute;
+    width: 46%;
+    left: 53%;
+    padding-top: 10px;
+    padding-right: 1%;
+    padding-left: 2%;
+
+  }
+  .sled {
+    position: absolute;
+    width: 45.8%;
+    left: 53.2%;
+    top: 14.7vw;
+  }
+
+  .vert1 {
+    width: 4px;
+    height: 14.5vw;
+    position: absolute;
+    background: #303030;
+    left: 16.4vw;
+    top: 15px;
+
+  }
+  .vert2 {
+    width: 4px;
+    height: 14.5vw;
+    position: absolute;
+    background: #303030;
+    left: 52.6vw;
+    top: 15px;
+
+
+  }
+  .hor1 {
+    width: 100vw;
+    height: 4px;
+    position: absolute;
+    background: #303030;
+    margin-top: 30px;
+    top: 14.5vw;
+
+  }
+  .contents {
+
+    position: absolute;
+  width: 100%;
+  height: 65vmin;
+  /* top: 14.7vw;
+  margin-top: 30px; */
+  bottom: 50px;
+  }
+.content1 {
+  position: absolute;
+  width: 34%;
+  height: 450px;
+  bottom: 50px;
+
+
+
+}
+.shag1 {
+  position: absolute;
+  width: 130px;
+  left: 12%;
+  top: 10%;
+}
+  .naidi {
+    position: absolute;
+    width: 130px;
+    left: 45%;
+    top: 7%;
+  }
+
+  .ubedi {
+    position: absolute;
+
+    width: 200px;
+    left: 19%;
+    top: 26%;
+
+  }
+  .sovet1 {
+    position: absolute;
+    width: 25%;
+    left: 5%;
+    top: 24%;
+  }
+
+
+  .thebug img{
+    position: absolute;
+    width: 37%;
+    left: 55%;
+    top: 58%;
+  }
+
+  .bstar1 {
+    position: absolute;
+    width: 10%;
+    left: 78%;
+    top: 6%;
+  }
+  .pstar1 {
+    position: absolute;
+    width: 13%;
+    left: 69%;
+    top: 37%;
+  }
+  .wstar1 {
+    position: absolute;
+    width: 17%;
+    left: 41%;
+    top: 77%;
+  }
+  .splash1 {
+    position: absolute;
+    width: 130px;
+    left: 6%;
+    top: 70%;
+  }
+  .bstar2 {
+    position: absolute;
+    width: 10%;
+    left: 74%;
+    top: 90%;
+  }
+  .content2 {
+  position: absolute;
+  width: 34%;
+  height: 450px;
+  bottom: 50px;
+  left: 35%;
+  }
+
+  .thegirl {
+    position: absolute;
+    width: 300px;
+    top: 100px;
+    left: 7%;
+
+
+  }
+  .lyozha {
+    position: absolute;
+    width: 150px;
+    left: 4%;
+    top: 30px;
+  }
+
+  .shag2 {
+    position: absolute;
+    width: 30%;
+    top: 50%;
+    left: 0%;
+  }
+  .flower11 {
+    position: absolute;
+    width: 14%;
+    top: 15px;
+    left: 170px;
+  }
+  .pacifb1 img {
+    position: absolute;
+    width: 180px;
+    top: 290px;
+    left: 8%;
+  }
+  .pacifpink1 {
+    position: absolute;
+    width: 90px;
+    top: 5%;
+    left: 270px;
+  }
+  .pinkstarlined {
+    position: absolute;
+    width: 50px;
+    top: 120px;
+    left: 180px;
+  }
+  .whitestar1 {
+    position: absolute;
+    width: 13%;
+    top: 400px;
+    left: 40%;
+  }
+
+  .blackstar2 {
+    position: absolute;
+    width: 65px;
+    top: 190px;
+    left: 350px;
+  }
+
+  .content3 {
+    position: absolute;
+    width: 34%;
+    height: 450px;
+    bottom: 50px;
+    left: 60%;
+
+  }
+
+  .thedude img{
+    position: absolute;
+    width: 370px;
+    top: 150px;
+    left: 25%;
+  }
+  .splash2 {
+    position: absolute;
+    width: 150px;
+    top: 45px;
+    left: 20%;
+  }
+  .shag3 {
+    position: absolute;
+    width: 150px;
+    top: 90px;
+    left: 20%;
+  }
+  .zakr {
+    position: absolute;
+    width: 140px;
+    top: 15%;
+    left: 80%;
+  }
+  .flower2 {
+    position: absolute;
+    width: 120px;
+    top: 20%;
+    left: 350px;
+  }
+  .flower3 {
+    position: absolute;
+    width: 65px;
+    top: 190px;
+    left: 350px;
+  }
+  .whitestar2 {
+    position: absolute;
+    width: 15%;
+    top: 30px;
+    left: 240px;
+  }
+  .blackstar3 {
+    position: absolute;
+    width: 65px;
+    top: 190px;
+    left: 350px;
+  }
+  .pinkstar3 {
+    position: absolute;
+    width: 65px;
+    top: 190px;
+    left: 350px;
+  }
+  .pinkstarlined2 {
+    position: absolute;
+    width: 65px;
+    top: 190px;
+    left: 350px;
+  }
+  .pacificblack1 {
+    position: absolute;
+    width: 65px;
+    top: 190px;
+    left: 350px;
+  }
+
+  .content4 {
+    position: absolute;
+    width: 30%;
+    height: 300px;
+    top: 0;
+    left: 120%;
+  }
+  .sled2 {
+    display: none;
+    position: absolute;
+    width: 37%;
+    left: 60%;
+    top: 14.6vw;
+  }
+  .relax {
+    position: absolute;
+    display: block;
+    width: 200px;
+    height: 100px;
+    background: url('images/relax.png');
+
+
+  }
+@media only screen and (max-width: 1200px){
+  .content1 {
+
+  }
+}
+@media only screen and (max-width: 1024px){
+
+  .block1 {
+    width: 50%;
+    padding-top: 18.5px;
+    position: absolute;
+    left: 4%;
+  }
+  .sled2 {
+      display: block;
+    position: absolute;
+    width: 35%;
+    left: 60%;
+    top: 14vw;
+  }
+  .vert1 {
+    width: 4px;
+    height: 15vw;
+    position: absolute;
+    background: #303030;
+    left: 19vw;
+    top: 15px;
+
+  }
+  .vert2 {
+    width: 4px;
+    height: 15vw;
+    position: absolute;
+    background: #303030;
+    left: 56vw;
+    top: 15px;
+  }
+  .hor1 {
+    width: 100vw;
+    height: 4px;
+    position: absolute;
+    background: #303030;
+    margin-top: 30px;
+    top: 15vw;
+
+  }
+  .sled {
+    display: none;
+    position: absolute;
+    width: 46%;
+    left: 53%;
+    top: 14.6vw;
+  }
+  .block2 {
+    position: absolute;
+    width: 40%;
+    left: 57%;
+    padding-top: 15px;
+    padding-right: 1%;
+    padding-left: 2%;
+
+  }
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+  .sled {
+    display: block;
+    position: absolute;
+    width: 86%;
+    left: 7%;
+    top: 52.5vw;
+  }
+  .sled2 {
+    display: none;
+  }
+  .blocks {
+    padding: 11px;
+  }
+
+  .block1 {
+    width: 80%;
+    position: absolute;
+    left: 10%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+  }
+
+  .block2 {
+    position: absolute;
+    width: 77%;
+
+    padding-left: 2%;
+    padding-top: 1%;
+    top: 27.5vw;
+    left: 11%;
+
+  }
+
+
+  .vert1 {
+    width: 4px;
+    height: 23vw;
+    position: absolute;
+    background: #303030;
+    left: 32.5vw;
+    top: 10px;
+    margin-left: 1.5vh;
+    margin-right: 1.5vh;
+  }
+  .vert2 {
+    display: none;
+
+  }
+  .hor1 {
+    width: 100vw;
+    height: 4px;
+    position: absolute;
+    background: #303030;
+    margin-top: 30px;
+    top: 22vw;
+
+  }
+  .hor2 {
+    width: 100vw;
+    height: 4px;
+    position: absolute;
+    background: #303030;
+    margin-top: 30px;
+    top: 51vw;
+
+  }
+}
+
+  @media only screen and (max-width: 414px) {
+
+
+    .blocks {
+      padding: 8px;
+
+    }
+
+    .block1 {
+      width: 95%;
+      position: absolute;
+      left: 2%;
+
+
+    }
+
+    .block2 {
+      position: absolute;
+      width: 95%;
+      left: auto;
+
+
+      padding-top: 1%;
+      top: 31vw;
+
+
+    }
+    .vert1 {
+      width: 4px;
+      height: 27vw;
+      position: absolute;
+      background: #303030;
+      left: 28vw;
+      top: 7px;
+      margin-left: 1.5vh;
+      margin-right: 1.5vh;
+    }
+    .vert2 {
+      display: none;
+
+    }
+    .hor1 {
+      width: 100vw;
+      height: 4px;
+      position: absolute;
+      background: #303030;
+      margin-top: 30px;
+      top: 24vw;
+
+    }
+    .hor2 {
+      width: 100vw;
+      height: 4px;
+      position: absolute;
+      background: #303030;
+      margin-top: 30px;
+      top: 54vw;
+
+    }
+
+
+}
