@@ -965,6 +965,10 @@
       top: 40px;
       left: 360%;
     }
+    .contents{
+      bottom: 0;
+      margin-bottom: 9vh;
+    }
 }
 
 
@@ -1036,9 +1040,112 @@
     top: 51vw;
 
   }
+  .pict {
+    position: absolute;
+    width: 45%;
+    bottom: 20vh;
+    left: 360%;
+  }
+
+  .contents{
+    height: 10vh;
+    bottom: 0;
+    margin-bottom: 10vh;
+  }
+  .content1 {
+    height: 33vh;
+  }
+  .blackstar {
+    top: 8%;
+  }
+  .ubedi {
+    width: 50%;
+  }
+  .naidi {
+    width: 30%;
+  }
+  .splash1 {
+    display: none;
+  }
+  .thebug {
+    display: none;
+  }
+  .content2 {
+    height: 33vh;
+  }
+  .thegirl {
+    width: 60%;
+    top: 20%;
+    left: 20%;
+  }
+  .shag2 {
+    top: 60%;
+  }
+  .lyozha {
+    width: 30%;
+    top: 8%;
+  }
+  .flower11 {
+    display: none;
+  }
+  .pacifb1 img {
+    width: 40%;
+    top: 73%;
+    left: 20%;
+
+  }
+  .pacifpink1 {
+    width: 20%;
+    top: 20%;
+    left: 80%;
+  }
+  .blackstar2 {
+    left: 80%;
+    top: 95%;
+  }
+  .pinkstarlined {
+    display: none;
+  }
+
+.content3 {
+  height: 33vh;
+}
+.thedude img {
+  width: 80%;
+}
+.zakr {
+  width: 30%;
+}
+.splash2 {
+  width: 30%;
+  left: 30%;
+}
+.shag3 {
+  width: 30%;
+  left: 30%;
 }
 
-  @media only screen and (max-width: 414px) {
+
+.contentmid1 {
+  height: 33vh;
+}
+.content4 {
+  height: 33vh;
+}
+.pods {
+  height: 33vh;
+}
+.content5 {
+  height: 33vh;
+}
+.pict {
+  top:0;
+  height: 33vh;
+}
+
+}
+
+  @media only screen and (max-width: 500px) {
 
 
     .blocks {
@@ -1096,6 +1203,38 @@
       margin-top: 30px;
       top: 54vw;
 
+    }
+    .content1 {
+      width: 100vw;
+
+    }
+    .ubedi {
+      position: absolute;
+
+      width: 200px;
+      left: 19%;
+      top: 140px;
+
+    }
+    .content2 {
+      width: 100vw;
+      left: 100%;
+    }
+    .content3 {
+      width: 100vw;
+      left: 200%;
+    }
+    .contentmid1 {
+      width: 100vw;
+      left: 300%;
+    }
+    .content4 {
+      width: 100vw;
+      left: 400%;
+    }
+    .pods {
+      width: 100vw;
+      left: 500%;
     }
 
 
