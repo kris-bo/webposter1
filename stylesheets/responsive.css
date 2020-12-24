@@ -4,6 +4,11 @@
   .blocks {
     padding-left: 18px;
     padding-right: 18px;
+    width: 100vw;
+    height: 16.9vw;
+    background: #F3F800;
+
+
 
   }
 
@@ -57,23 +62,24 @@
 
   }
   .five {
-    width: 62px;
-    height: 145px;
+    width: 5vw;
+    height: 10vw;
     display: block;
     position: absolute;
-    left: 162px;
+    left: 19%;
     top: 18px;
-    background: url('images/five4.png');
+    background: url('five6.svg');
+    background-size: auto 100%;
 
     animation: five .5s steps(1) infinite;
     animation-play-state: running;
 
   }
   @keyframes five {
-    0%{background-position: 0px ;}
-    25%{background-position: -200px ;}
-    50%{background-position: -400px ;}
-    75%{background-position: -600px ;}
+    0%{background-position: 0vw ;}
+    25%{background-position: 8.4vw ;}
+    50%{background-position: 16.8vw ;}
+    75%{background-position: 25.2vw ;}
 
   }
   .contents {
@@ -97,7 +103,7 @@
 .shag1 {
   position: absolute;
   width: 130px;
-  left: 12%;
+  left: 10%;
   top: 10%;
 }
   .naidi {
@@ -125,7 +131,7 @@
 
   .thebug img{
     position: absolute;
-    width: 37%;
+    width: 190px;
     left: 60%;
     top: 58%;
   }
@@ -157,7 +163,7 @@
   .bstar2 {
     position: absolute;
     width: 10%;
-    left: 83%;
+    left: 89%;
     top: 92%;
   }
   .content2 {
@@ -172,7 +178,7 @@
     position: absolute;
     width: 300px;
     top: 100px;
-    left: 7%;
+    left: 8%;
 
 
   }
@@ -203,7 +209,7 @@
   }
   .pacifpink1 {
     position: absolute;
-    width: 90px;
+    width: 20%;
     top: 5%;
     left: 270px;
   }
@@ -215,16 +221,16 @@
   }
   .whitestar1 {
     position: absolute;
-    width: 13%;
-    top: 400px;
-    left: 50%;
+    width: 17%;
+    top: 370px;
+    left: 55%;
   }
 
   .blackstar2 {
     position: absolute;
-    width: 65px;
+    width: 15%;
     top: 190px;
-    left: 360px;
+    left: 370px;
   }
 
   .content3 {
@@ -235,18 +241,19 @@
     left: 60%;
 
   }
-  .relax {
+  .relax img {
     position: absolute;
     display: block;
-    width: 200px;
-    height: 100px;
-    background: url('images/relax.png');
+    width: 170px;
+    top: 290px;
+    left: 10%;
+
   }
 
   .thedude img{
     position: absolute;
     width: 370px;
-    top: 150px;
+    top: 140px;
     left: 30%;
   }
   .splash2 {
@@ -269,22 +276,22 @@
   }
   .flower2 {
     position: absolute;
-    width: 7vw;
-    top: 130px;
-    left: 100%;
+    width: 70px;
+    top: 150px;
+    left: 450px;
   }
   .flower3 {
     position: absolute;
     width: 65px;
     top: 400px;
-    left: 350px;
-    left: 40%;
+
+    left: 250px;
   }
   .whitestar2 {
     position: absolute;
-    width: 15%;
+    width: 13%;
     top: 30px;
-    left: 240px;
+    left: 60%;
   }
   .blackstar3 {
     position: absolute;
@@ -308,7 +315,7 @@
     position: absolute;
     width: 20%;
     top: 380px;
-    left: 320px;
+    left: 380px;
   }
 
 
@@ -318,27 +325,22 @@
     width: 34%;
     height: 450px;
     bottom: 50px;
-    left: 90%;
+    left: 92%;
 
   }
   .pacifp img {
     position: absolute;
     width: 210px;
-    top: 150px;
-    left: 35%;
+    top: 120px;
+    left: 32%;
 }
   .splash3 {
     position: absolute;
-    width: 120px;
-    top: 380px;
-    left: 20%;
+    width: 25%;
+    top: 340px;
+    left: 25%;
   }
-  .flower22 {
-    position: absolute;
-    width: 80px;
-    top: 310px;
-    left: 100px;
-  }
+
   .pacifpink2 {
     position: absolute;
     width: 100px;
@@ -348,26 +350,26 @@
   .drop1 {
     position: absolute;
     width: 120px;
-    top: 310px;
-    left: 58%;
+    top: 280px;
+    left: 57%;
   }
   .pinkstarlined3 {
     position: absolute;
-    width: 75px;
+    width: 13%;
     top: 230px;
-    left: 80%;
+    left: 85%;
   }
   .blackstar4 {
     position: absolute;
     width: 15%;
     top: 380px;
-    left: 50%;
+    left: 55%;
   }
   .wordrelax {
     position: absolute;
     width: 150px;
-    top: 45px;
-    left: 20%;
+    top: 70px;
+    left: 38%;
   }
 
 
@@ -459,9 +461,9 @@
 
   .linedstar2 {
     position: absolute;
-    width: 40px;
+    width: 60px;
     top: 300px;
-    left: 450px;
+    left: 470px;
   }
 
   .drop2 {
@@ -487,9 +489,9 @@
 
   .pacificblack3 {
     position: absolute;
-    width: 150px;
+    width: 110px;
     top: 45px;
-    left: 20%;
+    left: 300px;
   }
 
   .blackstar6 {
@@ -516,7 +518,7 @@
     position: absolute;
     width: 60px;
     top: 400px;
-    left: 300px;
+    left: 0px;
   }
 
   .whitestar3 {
@@ -537,49 +539,49 @@
   }
   .pacificblack4 {
     position: absolute;
-    width: 150px;
-    top: 45px;
-    left: 20%;
+    width: 100px;
+    top: 360px;
+    left: 400px;
   }
 
   .whitestar4 {
     position: absolute;
-    width: 150px;
-    top: 45px;
-    left: 20%;
+    width: 80px;
+    top: 370px;
+    left: 150px;
   }
 
   .blackstar7 {
     position: absolute;
     width: 50px;
-    top: 45px;
-    left: 20%;
+    top: 300px;
+    left: 450px;
   }
 
   .blackstar8 {
     position: absolute;
-    width: 150px;
-    top: 45px;
-    left: 20%;
+    width: 50px;
+    top: 50px;
+    left: 170px;
   }
 
   .drop3 {
     position: absolute;
     width: 150px;
-    top: 45px;
-    left: 20%;
+    top: 100px;
+    left: 430px;
   }
 
   .pacifpink4 {
     position: absolute;
-    width: 90px;
+    width: 80px;
     top: 360px;
     left: 350px;
   }
 
   .prolezhy {
     position: absolute;
-    width: 340px;
+    width: 310px;
     top: 110px;
     left: 140px;
   }
@@ -587,15 +589,15 @@
   .shag5 {
     position: absolute;
     width: 150px;
-    top: 45px;
-    left: 20%;
+    top: 130px;
+    left: 120px;
   }
 
   .pict {
     position: absolute;
-    width: 150px;
-    top: 45px;
-    left: 220%;
+    width: 45%;
+    top: 40px;
+    left: 225%;
   }
 
 
@@ -691,7 +693,278 @@
 
   }
 
+  .content1 {
+    position: absolute;
+    width: 50%;
+    height: 450px;
+    bottom: 50px;
 
+
+
+  }
+  .shag1 {
+    position: absolute;
+    width: 130px;
+    left: 10%;
+    top: 10%;
+  }
+    .naidi {
+      position: absolute;
+      width: 130px;
+      left: 45%;
+      top: 12%;
+    }
+
+    .ubedi {
+      position: absolute;
+
+      width: 200px;
+      left: 19%;
+      top: 140px;
+
+    }
+    .sovet1 {
+      position: absolute;
+      width: 25%;
+      left: 5%;
+      top: 24%;
+    }
+
+
+    .thebug img{
+      position: absolute;
+      width: 190px;
+      left: 60%;
+      top: 58%;
+    }
+
+    .bstar1 {
+      position: absolute;
+      width: 10%;
+      left: 78%;
+      top: 6%;
+    }
+    .pstar1 {
+      position: absolute;
+      width: 13%;
+      left: 80%;
+      top: 37%;
+    }
+    .wstar1 {
+      position: absolute;
+      width: 17%;
+      left: 45%;
+      top: 79%;
+    }
+    .splash1 {
+      position: absolute;
+      width: 130px;
+      left: 6%;
+      top: 70%;
+    }
+    .bstar2 {
+      position: absolute;
+      width: 10%;
+      left: 89%;
+      top: 92%;
+    }
+
+
+    .content2 {
+    position: absolute;
+    width: 50%;
+    height: 450px;
+    bottom: 50px;
+    left: 50%;
+    }
+
+    .thegirl {
+      position: absolute;
+      width: 300px;
+      top: 100px;
+      left: 8%;
+
+
+    }
+    .lyozha {
+      position: absolute;
+      width: 150px;
+      left: 4%;
+      top: 30px;
+    }
+
+    .shag2 {
+      position: absolute;
+      width: 30%;
+      top: 50%;
+      right: 71%;
+    }
+    .flower11 {
+      position: absolute;
+      width: 14%;
+      top: 15px;
+      left: 170px;
+    }
+    .pacifb1 img {
+      position: absolute;
+      width: 180px;
+      top: 290px;
+      left: 8%;
+    }
+    .pacifpink1 {
+      position: absolute;
+      width: 20%;
+      top: 5%;
+      left: 270px;
+    }
+    .pinkstarlined {
+      position: absolute;
+      width: 50px;
+      top: 120px;
+      left: 180px;
+    }
+    .whitestar1 {
+      position: absolute;
+      width: 17%;
+      top: 370px;
+      left: 55%;
+    }
+
+    .blackstar2 {
+      position: absolute;
+      width: 15%;
+      top: 190px;
+      left: 370px;
+    }
+
+
+
+    .content3 {
+      position: absolute;
+      width: 50%;
+      height: 450px;
+      bottom: 50px;
+      left: 90%;
+
+    }
+    .relax img {
+      position: absolute;
+      display: block;
+      width: 110px;
+      top: 300px;
+      left: 20%;
+
+    }
+
+    .thedude img{
+      position: absolute;
+      width: 370px;
+      top: 140px;
+      left: 30%;
+    }
+    .splash2 {
+      position: absolute;
+      width: 150px;
+      top: 45px;
+      left: 20%;
+    }
+    .shag3 {
+      position: absolute;
+      width: 150px;
+      top: 90px;
+      left: 20%;
+    }
+    .zakr {
+      position: absolute;
+      width: 130px;
+      top: 15%;
+      left: 75%;
+    }
+    .flower2 {
+      position: absolute;
+      width: 70px;
+      top: 150px;
+      left: 450px;
+    }
+    .flower3 {
+      position: absolute;
+      width: 65px;
+      top: 400px;
+
+      left: 250px;
+    }
+    .whitestar2 {
+      position: absolute;
+      width: 13%;
+      top: 30px;
+      left: 60%;
+    }
+    .blackstar3 {
+      position: absolute;
+      width: 65px;
+      top: 190px;
+      left: 350px;
+    }
+    .pinkstar3 {
+      position: absolute;
+      width: 65px;
+      top: 190px;
+      left: 80%;
+    }
+    .pinkstarlined2 {
+      position: absolute;
+      width: 60px;
+      top: 250px;
+      left: 100%;
+    }
+    .pacificblack1 {
+      position: absolute;
+      width: 20%;
+      top: 380px;
+      left: 380px;
+    }
+
+    .contentmid1 {
+      position: absolute;
+      width: 50%;
+      height: 450px;
+      bottom: 50px;
+      left: 150%;
+
+    }
+
+    .content4 {
+      position: absolute;
+      width: 50%;
+      height: 450px;
+      bottom: 50px;
+      left: 200%;
+    }
+
+
+    .pods {
+      position: absolute;
+      width: 50%;
+      height: 450px;
+      bottom: 50px;
+      left: 250%;
+    }
+
+
+    .content5 {
+      position: absolute;
+      width: 50%;
+      height: 450px;
+      bottom: 50px;
+      left: 300%;
+    }
+
+    .pict {
+      position: absolute;
+      width: 45%;
+      top: 40px;
+      left: 360%;
+    }
 }
 
 
