@@ -161,9 +161,6 @@ to {
     left: 7%;
     top: 24%;
   }
-  .sovet1:hover {
-    width: 20%;
-  }
 
 
   .thebug img{
@@ -278,6 +275,9 @@ to {
     top: 370px;
     left: 55%;
   }
+  .whitestar1:hover{
+  transform: rotate(-45deg);
+  }
 
   .blackstar2 {
     position: absolute;
@@ -327,6 +327,10 @@ to {
     top: 15%;
     left: 75%;
   }
+
+  .zakr:hover {
+    width: 30%;
+  }
   .flower2 {
     position: absolute;
     width: 70px;
@@ -339,6 +343,9 @@ to {
     top: 400px;
 
     left: 250px;
+  }
+  .flower3:hover{
+  transform: rotate(45deg);
   }
   .whitestar2 {
     position: absolute;
@@ -363,6 +370,9 @@ to {
     width: 60px;
     top: 250px;
     left: 100%;
+  }
+  .pinkstarlined2:hover{
+  transform: rotate(45deg);
   }
   .pacificblack1 {
     position: absolute;
@@ -440,6 +450,9 @@ to {
     top: 100px;
     left: 80px;
   }
+  .ochist:hover{
+  width:55%;
+  }
   .splash4 {
     position: absolute;
     width: 180px;
@@ -505,12 +518,18 @@ to {
     top: 150px;
     left: 30%;
   }
+  .podskazka:hover{
+  transform: rotate(-20deg);
+  }
 
   .vimozh {
     position: absolute;
     width: 210px;
     top: 140px;
     left: 170px;
+  }
+  .vimozh:hover{
+  width: 45%;
   }
 
   .linedstar2 {
@@ -534,6 +553,9 @@ to {
     width: 60px;
     top: 80px;
     left: 400px;
+  }
+  .flower4:hover{
+  transform: rotate(45deg);
   }
 
   .pinkstarlined5 {
@@ -641,6 +663,7 @@ to {
     top: 110px;
     left: 140px;
   }
+
 
   .shag5 {
     position: absolute;
@@ -1132,40 +1155,50 @@ to {
   }
   .bstar1 {
     top: 10%;
+
   }
   .wstar1 {
     display: none;
   }
-  .blackstar {
-    top: 8%;
+  .bstar2 {
+    top: 90%;
+    left: 95%;
   }
   .pstar1 {
-    top: 50%;
-    width: 17%;
-    left: 75%;
+    top: 54%;
+    width: 16%;
+    left: 76%;
 
   }
   .sovet1 {
     top: 35%;
   }
+
   .ubedi {
     width: 50%;
-    top: 45%;
+    top: 44%;
+    left: 25%;
   }
   .naidi {
-    width: 30%;
+    width: 29%;
     top: 17%;
+    left: 56%;
   }
   .shag1 {
     width: 35%;
     top: 17%;
     left: 5%;
   }
+
   .splash1 {
-    display: none;
+    width: 22%;
+    top: 90%;
+    left: 4%;
   }
-  .thebug {
-    display: none;
+  .thebug img {
+    width: 30%;
+    top: 90%;
+    left: 57%;
   }
   .content2 {
     height: 33vh;
@@ -1512,29 +1545,42 @@ animation-timing-function: linear;
 
       width: 200px;
       left: 20%;
-      top: 140px;
+      top: 45%;
 
+    }
+    .naidi {
+      top: 10%;
+      width: 27%;
+      left: 43%;
     }
 
     .sovet1 {
       left: 7%;
+      top: 25%;
     }
     .bstar2 {
-      left: 70%;
+      left: 75%;
       top: 100%;
     }
     .shag1 {
       width: 30%;
-      top: 15%;
+      top: 4%;
     }
     .pstar1 {
-      top: 65%;
+      top: 50%;
       left: 75%;
     }
     .bstar2 {
       top: 115%;
+      left: 95%;
 
     }
+    .splash1 {
+      width: 25%;
+      top: 95%;
+      left: 0%;
+    }
+
 
     .content2 {
       width: 100vw;
@@ -1569,8 +1615,16 @@ animation-timing-function: linear;
       left: 180%;
       top: 0;
     }
+    .zakr {
+      width: 25%;
+    }
     .shag3 {
       top: 35%;
+      left: 25%;
+    }
+    .splash2 {
+
+      left: 25%;
     }
     .contentmid1 {
       width: 100vw;
