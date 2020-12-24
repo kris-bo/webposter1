@@ -1077,6 +1077,10 @@
     width: 60%;
     top: 20%;
     left: 20%;
+
+  }
+  .whitestar1 {
+    display: none;
   }
   .shag2 {
     top: 60%;
@@ -1124,17 +1128,101 @@
   width: 30%;
   left: 30%;
 }
+.relax {
+  display: none;
+}
+.pacificblack1 {
+  display: none;
+}
+.flower3 {
+  display: none;
+}
+.flower2 {
+  top: 30%;
+  left: 112%;
+}
+.pinkstarlined2 {
+  top: 80%;
+}
 
 
 .contentmid1 {
   height: 33vh;
+  left: 145%;
 }
+.wordrelax {
+  top: 10%;
+}
+  .pacifp img {
+    top: 25%;
+    left: 22%;
+  }
+  .drop1 {
+    top: 90%;
+    left: 59%;;
+  }
+  .pinkstarlined3 {
+    top: 30%;
+  }
+  .blackstar4 {
+
+}
+
+
+
 .content4 {
   height: 33vh;
 }
+.ochist {
+  width: 60%;
+  left: 20%;
+  top: 20%;
+}
+.splash4 {
+width: 35%;
+}
+.shag4 {
+  width: 35%;
+}
+
+
+.univ img {
+  width: 30%;
+  top: 70%;
+  left: 60%;
+}
+.pacifpink2 {
+  top:66%;
+  width: 22%;
+  left: 90%;
+}
+.linedstar1 {
+  top: 95%;
+  width: 15%;
+  left: 10%;
+}
+
 .pods {
   height: 33vh;
+
 }
+.podskazka {
+  width: 30%;
+}
+.vimozh {
+  width: 50%;
+  left: 45%;
+}
+.drop2 {
+  display: none;
+}
+.pacificblack2 {
+  width:22%;
+  top: 50%;
+  left: 97%;
+}
+
+
 .content5 {
   height: 33vh;
 }
@@ -1146,6 +1234,7 @@
 }
 
   @media only screen and (max-width: 500px) {
+
 
 
     .blocks {
@@ -1201,40 +1290,65 @@
       position: absolute;
       background: #303030;
       margin-top: 30px;
-      top: 54vw;
+      top: 59vw;
 
     }
+    .sled {
+      top: 61vw;
+    }
+    .contents{
+      height: 45vh;
+      bottom: 0;
+      margin-bottom: 10vh;
+    }
     .content1 {
-      width: 100vw;
+      height: 40vh;
+      top: 0;
+      left: 5%;
 
     }
     .ubedi {
       position: absolute;
 
-      width: 200px;
+    
       left: 19%;
       top: 140px;
 
     }
     .content2 {
-      width: 100vw;
+      height: 40vh;
       left: 100%;
+      top: 0;
     }
     .content3 {
       width: 100vw;
       left: 200%;
+      top: 0;
     }
     .contentmid1 {
       width: 100vw;
       left: 300%;
+      top: 0;
     }
     .content4 {
       width: 100vw;
       left: 400%;
+      top: 0;
     }
     .pods {
       width: 100vw;
       left: 500%;
+      top: 0;
+    }
+    .content5 {
+      width: 100vw;
+      left: 600%;
+      top: 0;
+    }
+    .pict {
+      width: 100vw;
+      left: 700%;
+      top: 0;
     }
 
 
