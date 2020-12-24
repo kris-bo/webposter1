@@ -148,6 +148,9 @@
     left: 80%;
     top: 37%;
   }
+  .ubedi:hover {
+    width: 45%;
+  }
   .wstar1 {
     position: absolute;
     width: 17%;
@@ -413,6 +416,7 @@
   }
   .pacificblack2 {
     position: absolute;
+    display: block;
     width: 100px;
     top: 120px;
     left: 390px;
@@ -461,6 +465,7 @@
 
   .linedstar2 {
     position: absolute;
+    display: block;
     width: 60px;
     top: 300px;
     left: 470px;
@@ -474,6 +479,7 @@
   }
 
   .flower4 {
+    display: block;
     position: absolute;
     width: 60px;
     top: 80px;
@@ -595,9 +601,9 @@
 
   .pict {
     position: absolute;
-    width: 45%;
-    top: 40px;
-    left: 225%;
+    width: 40vw;
+    top: 15%;
+    left: 140%;
   }
 
 
@@ -630,13 +636,33 @@
     top: 14.6vw;
   }
 
-@media only screen and (max-width: 1200px){
-  .content1 {
+
+}
+
+@media only screen and (max-width: 1150px){
+.pacificblack2{
+  display: none;
+}
+.flower4 {
+  display: none;
+
+}
+.linedstar2 {
+  display: none;
+}
+}
+
+@media only screen and (max-width: 1024px){
+  .pacificblack2{
+    display: block;
+  }
+  .flower4 {
+    display: block;
 
   }
-}
-@media only screen and (max-width: 1024px){
-
+  .linedstar2 {
+    display: block;
+  }
   .block1 {
     width: 50%;
     padding-top: 18.5px;
@@ -929,7 +955,7 @@
       width: 50%;
       height: 450px;
       bottom: 50px;
-      left: 150%;
+      left: 140%;
 
     }
 
@@ -938,7 +964,7 @@
       width: 50%;
       height: 450px;
       bottom: 50px;
-      left: 200%;
+      left: 190%;
     }
 
 
@@ -947,7 +973,7 @@
       width: 50%;
       height: 450px;
       bottom: 50px;
-      left: 250%;
+      left: 240%;
     }
 
 
@@ -956,14 +982,14 @@
       width: 50%;
       height: 450px;
       bottom: 50px;
-      left: 300%;
+      left: 290%;
     }
 
     .pict {
       position: absolute;
-      width: 45%;
-      top: 40px;
-      left: 360%;
+      width: 100%;
+      top: 20%;
+      left: 120%;
     }
     .contents{
       bottom: 0;
@@ -973,6 +999,9 @@
 
 
 @media only screen and (max-width: 768px) {
+  .five {
+    display: none;
+  }
   .sled {
     display: block;
     position: absolute;
@@ -1040,12 +1069,7 @@
     top: 51vw;
 
   }
-  .pict {
-    position: absolute;
-    width: 45%;
-    bottom: 20vh;
-    left: 360%;
-  }
+
 
   .contents{
     height: 10vh;
@@ -1054,15 +1078,38 @@
   }
   .content1 {
     height: 33vh;
+
+  }
+  .bstar1 {
+    top: 10%;
+  }
+  .wstar1 {
+    display: none;
   }
   .blackstar {
     top: 8%;
   }
+  .pstar1 {
+    top: 50%;
+    width: 17%;
+    left: 75%;
+
+  }
+  .sovet1 {
+    top: 35%;
+  }
   .ubedi {
     width: 50%;
+    top: 45%;
   }
   .naidi {
     width: 30%;
+    top: 17%;
+  }
+  .shag1 {
+    width: 35%;
+    top: 17%;
+    left: 5%;
   }
   .splash1 {
     display: none;
@@ -1080,7 +1127,8 @@
 
   }
   .whitestar1 {
-    display: none;
+    top: 60%;
+    left: 90%;
   }
   .shag2 {
     top: 60%;
@@ -1115,10 +1163,13 @@
   height: 33vh;
 }
 .thedude img {
-  width: 80%;
+  width: 85%;
+
+  top: 45%;
 }
 .zakr {
   width: 30%;
+  top: 18%;
 }
 .splash2 {
   width: 30%;
@@ -1127,6 +1178,7 @@
 .shag3 {
   width: 30%;
   left: 30%;
+  top: 27%;
 }
 .relax {
   display: none;
@@ -1151,21 +1203,26 @@
   left: 145%;
 }
 .wordrelax {
-  top: 10%;
+  top: 15%;
 }
   .pacifp img {
-    top: 25%;
-    left: 22%;
+    top: 35%;
+    left: 23%;
+    width: 50%;
   }
   .drop1 {
     top: 90%;
-    left: 59%;;
+    left: 50%;;
   }
   .pinkstarlined3 {
-    top: 30%;
+    top: 35%;
+    left: 70%;
   }
   .blackstar4 {
-
+display: none;
+}
+.splash3 {
+  display: none;
 }
 
 
@@ -1183,6 +1240,7 @@ width: 35%;
 }
 .shag4 {
   width: 35%;
+  top: 26%;
 }
 
 
@@ -1192,9 +1250,9 @@ width: 35%;
   left: 60%;
 }
 .pacifpink2 {
-  top:66%;
+  top:60%;
   width: 22%;
-  left: 90%;
+  left: 80%;
 }
 .linedstar1 {
   top: 95%;
@@ -1208,32 +1266,101 @@ width: 35%;
 }
 .podskazka {
   width: 30%;
+  top: 20%;
+  left: 27%;
+}
+.flower5 {
+  display: none;
 }
 .vimozh {
   width: 50%;
-  left: 45%;
+  left: 42%;
+  top: 40%;
 }
 .drop2 {
   display: none;
 }
 .pacificblack2 {
+  display: block;
   width:22%;
   top: 50%;
   left: 97%;
 }
-
+.pinkstar4 {
+  display: none;
+}
+.pinkstarlined5 {
+  width: 15%;
+  top: 70%;
+  left: 110%;
+}
+.splash5 {
+  left: 80%;
+  width: 30%;
+}
 
 .content5 {
   height: 33vh;
 }
+.prolezhy {
+  width: 80%;
+  left: 45%;
+  top: 25%;
+}
+.shag5 {
+  top: 35%;
+}
+.blackstar7 {
+  left: 110%;
+  top: 105%;
+}
+.pacifpink4{
+  display: none;
+}
+.whitestar4 {
+  display: none;
+}
+.drop3 {
+  left: 110%;
+  width: 30%;
+}
+.blackstar6 {
+display: none;
+
+}
+.blackstar7 {
+left: 120%;
+top: 90%;
+
+}
+.blackstar8 {
+left: 45%;
+width: 10%;
+
+}
+.pacificblack4 {
+  display: none;
+}
+
 .pict {
-  top:0;
-  height: 33vh;
+  width: 80%;
+left: 150%;
+top: 23%;
+
+}
+.flower4 {
+  top: 95%;
+}
+.linedstar2 {
+  display: block;
+  width: 10%;
+  top:100%;
+  left: 93%;
 }
 
 }
 
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 550px) {
 
 
 
@@ -1304,17 +1431,38 @@ width: 35%;
     .content1 {
       width: 100vw;
       top: 0;
-      left: 7%;
+      left: 5%;
 
     }
     .ubedi {
       position: absolute;
 
       width: 200px;
-      left: 19%;
+      left: 20%;
       top: 140px;
 
     }
+
+    .sovet1 {
+      left: 7%;
+    }
+    .bstar2 {
+      left: 70%;
+      top: 100%;
+    }
+    .shag1 {
+      width: 30%;
+      top: 15%;
+    }
+    .pstar1 {
+      top: 65%;
+      left: 75%;
+    }
+    .bstar2 {
+      top: 115%;
+
+    }
+
     .content2 {
       width: 100vw;
       left: 100%;
@@ -1325,6 +1473,7 @@ width: 35%;
 }
 .shag2 {
   top: 66%;
+  left: 10%;
 }
 .thegirl {
   width: 60%;
@@ -1333,36 +1482,127 @@ width: 35%;
   top: 90%;
   width: 35%;
 }
+.pacifpink1 {
+
+  width: 15%;
+}
+.blackstar2 {
+  width: 10%;
+  top: 110%;
+}
 
     .content3 {
       width: 100vw;
       left: 180%;
       top: 0;
     }
+    .shag3 {
+      top: 35%;
+    }
     .contentmid1 {
       width: 100vw;
       left: 290%;
       top: 0;
     }
+
+    .pacifp img{
+      width: 35%;
+    }
+    .drop1 {
+      left: 42%;
+    }
+    .wordrelax {
+      left: 30%;
+    }
+    .pinkstarlined3 {
+      left: 60%;
+    }
+    .splash3 {
+      display: block;
+      width: 20%;
+      top: 90%;
+      left: 10%;
+    }
+
     .content4 {
       width: 100vw;
       left: 380%;
       top: 0;
+    }
+    .ochist {
+      width: 50%;
+    }
+    .splash5 {
+      left: 70%;
+      width: 25%;
+    }
+    .splash4 {
+
+      width: 30%;
+    }
+    .shag4 {
+      width: 30%;
+      top: 31%;
+    }
+    .pacifpink2 {
+      width: 20%;
+      left: 75%;
+    }
+    .pacificblack2 {
+      width: 20%;
+      left: 90%;
+    }
+    .univ img {
+      width: 25%;
     }
     .pods {
       width: 100vw;
       left: 470%;
       top: 0;
     }
+    .podskazka {
+      width: 22%;
+
+    }
+    .vimozh {
+      width: 40%;
+      left: 37%;
+    }
+    .flower4 {
+      width: 18%;
+      top: 53%;
+      left: 85%;
+    }
+    .linedstar3 {
+      width: 10%;
+      left: 70%;
+    }
+    .pinkstarlined5 {
+      display: none;
+    }
     .content5 {
       width: 100vw;
-      left: 560%;
+      left: 535%;
       top: 0;
     }
+    .prolezhy {
+      width: 65%;
+    }
+    .drop3 {
+      top: 15%;
+      left: 100%;
+    }
+    .blackstar8 {
+      top: 10%;
+    }
+    .shag5 {
+      left: 45%;
+    }
     .pict {
-      width: 100vw;
-      left: 650%;
-      top: 0;
+      position: absolute;
+      width: 100%;
+      top:0;
+      left: 150%;
     }
 
 
