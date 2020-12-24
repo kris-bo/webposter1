@@ -91,6 +91,37 @@
   margin-top: 30px; */
   bottom: 50px;
   }
+  .star1{
+  width: 1.3vw;
+  height: 1.3vw;
+  position: absolute;
+  left: 44%;
+  top: 66%;
+  background: url('star1.svg');
+  background-size: auto 100%;
+  animation: star 2s infinite;
+  animation-timing-function: linear;
+    animation-play-state: running;
+  }
+  .star2{
+    width: 1.3vw;
+    height: 1.3vw;
+  position: absolute;
+  left: 87%;
+  top: 68%;
+  background: url('star1.svg');
+  animation: star 2s infinite;
+  animation-timing-function: linear;
+    animation-play-state: running;
+  }
+
+
+@-webkit-keyframes star {
+from {
+  -webkit-transform: rotate(0deg);}
+to {
+  -webkit-transform: rotate(359deg);}
+}
 .content1 {
   position: absolute;
   width: 34%;
@@ -112,6 +143,9 @@
     left: 45%;
     top: 12%;
   }
+  .naidi:hover {
+      width: 30%;
+  }
 
   .ubedi {
     position: absolute;
@@ -123,9 +157,12 @@
   }
   .sovet1 {
     position: absolute;
-    width: 25%;
-    left: 5%;
+    width: 23%;
+    left: 7%;
     top: 24%;
+  }
+  .sovet1:hover {
+    width: 20%;
   }
 
 
@@ -135,6 +172,8 @@
     left: 60%;
     top: 58%;
   }
+
+
 
   .bstar1 {
     position: absolute;
@@ -147,6 +186,11 @@
     width: 13%;
     left: 80%;
     top: 37%;
+
+
+  }
+  .pstar1:hover{
+  transform: rotate(45deg);
   }
   .ubedi:hover {
     width: 45%;
@@ -156,6 +200,9 @@
     width: 17%;
     left: 45%;
     top: 79%;
+  }
+  .wstar1:hover {
+    transform: rotate(45deg);
   }
   .splash1 {
     position: absolute;
@@ -190,6 +237,9 @@
     width: 150px;
     left: 4%;
     top: 30px;
+  }
+  .lyozha:hover {
+    width: 34%;
   }
 
   .shag2 {
@@ -1358,6 +1408,29 @@ top: 23%;
   left: 93%;
 }
 
+.star1{
+width: 2vw;
+height: 2vw;
+position: absolute;
+left: 44%;
+top: 66%;
+background: url('star1.svg');
+background-size: auto 100%;
+animation: star 2s infinite;
+animation-timing-function: linear;
+  animation-play-state: running;
+}
+.star2{
+  width: 2vw;
+  height: 2vw;
+position: absolute;
+left: 87%;
+top: 68%;
+background: url('star1.svg');
+animation: star 2s infinite;
+animation-timing-function: linear;
+  animation-play-state: running;
+}
 }
 
   @media only screen and (max-width: 550px) {
@@ -1603,6 +1676,29 @@ top: 23%;
       width: 100%;
       top:0;
       left: 150%;
+    }
+    .star1{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    left: 44%;
+    top: 66%;
+    background: url('star1.svg');
+    background-size: auto 100%;
+    animation: star 2s infinite;
+    animation-timing-function: linear;
+      animation-play-state: running;
+    }
+    .star2{
+      width: 3vw;
+      height: 3vw;
+    position: absolute;
+    left: 87%;
+    top: 68%;
+    background: url('star1.svg');
+    animation: star 2s infinite;
+    animation-timing-function: linear;
+      animation-play-state: running;
     }
 
 
