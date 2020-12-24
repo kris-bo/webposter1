@@ -1302,52 +1302,66 @@ width: 35%;
       margin-bottom: 10vh;
     }
     .content1 {
-      height: 40vh;
+      width: 100vw;
       top: 0;
-      left: 5%;
+      left: 7%;
 
     }
     .ubedi {
       position: absolute;
 
-    
+      width: 200px;
       left: 19%;
       top: 140px;
 
     }
     .content2 {
-      height: 40vh;
+      width: 100vw;
       left: 100%;
       top: 0;
     }
+.lyozha {
+  top: 0%;
+}
+.shag2 {
+  top: 66%;
+}
+.thegirl {
+  width: 60%;
+}
+.pacifb1 img {
+  top: 90%;
+  width: 35%;
+}
+
     .content3 {
       width: 100vw;
-      left: 200%;
+      left: 180%;
       top: 0;
     }
     .contentmid1 {
       width: 100vw;
-      left: 300%;
+      left: 290%;
       top: 0;
     }
     .content4 {
       width: 100vw;
-      left: 400%;
+      left: 380%;
       top: 0;
     }
     .pods {
       width: 100vw;
-      left: 500%;
+      left: 470%;
       top: 0;
     }
     .content5 {
       width: 100vw;
-      left: 600%;
+      left: 560%;
       top: 0;
     }
     .pict {
       width: 100vw;
-      left: 700%;
+      left: 650%;
       top: 0;
     }
 
