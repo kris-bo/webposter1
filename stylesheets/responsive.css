@@ -178,6 +178,9 @@ to {
     left: 78%;
     top: 6%;
   }
+  .bstar1:hover{
+  transform: rotate(45deg);
+  }
   .pstar1 {
     position: absolute;
     width: 13%;
@@ -212,6 +215,9 @@ to {
     width: 10%;
     left: 89%;
     top: 92%;
+  }
+  .bstar2:hover{
+  transform: rotate(45deg);
   }
   .content2 {
   position: absolute;
@@ -251,23 +257,33 @@ to {
     top: 15px;
     left: 170px;
   }
+  .flower11:hover{
+  transform: rotate(45deg);
+  }
   .pacifb1 img {
     position: absolute;
     width: 180px;
     top: 290px;
     left: 8%;
   }
+
   .pacifpink1 {
     position: absolute;
     width: 20%;
     top: 5%;
     left: 270px;
   }
+  .pacifpink1:hover{
+  transform: rotate(45deg);
+  }
   .pinkstarlined {
     position: absolute;
     width: 50px;
     top: 120px;
     left: 180px;
+  }
+  .pinkstarlined:hover{
+  transform: rotate(-45deg);
   }
   .whitestar1 {
     position: absolute;
@@ -284,6 +300,9 @@ to {
     width: 15%;
     top: 190px;
     left: 370px;
+  }
+  .blackstar2:hover{
+  transform: rotate(45deg);
   }
 
   .content3 {
@@ -337,6 +356,9 @@ to {
     top: 150px;
     left: 450px;
   }
+  .flower2:hover{
+  transform: rotate(45deg);
+  }
   .flower3 {
     position: absolute;
     width: 65px;
@@ -353,11 +375,17 @@ to {
     top: 30px;
     left: 60%;
   }
+  .whitestar2:hover{
+  transform: rotate(45deg);
+  }
   .blackstar3 {
     position: absolute;
     width: 65px;
     top: 190px;
     left: 350px;
+  }
+  .blackstar3:hover{
+  transform: rotate(-45deg);
   }
   .pinkstar3 {
     position: absolute;
@@ -380,7 +408,9 @@ to {
     top: 380px;
     left: 380px;
   }
-
+  .pacificblack1:hover{
+  transform: rotate(45deg);
+  }
 
 
   .contentmid1 {
@@ -422,11 +452,20 @@ to {
     top: 230px;
     left: 85%;
   }
+  .pinkstarlined3:hover{
+  transform: rotate(45deg);
+  }
   .blackstar4 {
     position: absolute;
     width: 15%;
     top: 380px;
     left: 55%;
+  }
+  .blackstar4:hover{
+  transform: rotate(45deg);
+  }
+  .blackstar2:hover{
+  transform: rotate(-45deg);
   }
   .wordrelax {
     position: absolute;
@@ -484,6 +523,9 @@ to {
     top: 120px;
     left: 390px;
   }
+  .pacificblack2:hover{
+  transform: rotate(-45deg);
+  }
   .univ img{
     position: absolute;
     width: 160px;
@@ -496,11 +538,17 @@ to {
     top: 400px;
     left: 20%;
   }
+  .linedstar1:hover{
+  transform: rotate(45deg);
+  }
   .pinkstar4 {
     position: absolute;
     width: 40px;
     top: 410px;
     left: 220px;
+  }
+  .pinkstar4:hover{
+  transform: rotate(45deg);
   }
 
 
@@ -539,7 +587,9 @@ to {
     top: 300px;
     left: 470px;
   }
-
+  .linedstar2:hover{
+  transform: rotate(45deg);
+  }
   .drop2 {
     position: absolute;
     width: 150px;
@@ -564,6 +614,9 @@ to {
     top: 295px;
     left: 310px;
   }
+  .pinkstarlined5:hover{
+  transform: rotate(45deg);
+  }
 
   .pacificblack3 {
     position: absolute;
@@ -571,12 +624,17 @@ to {
     top: 45px;
     left: 300px;
   }
-
+  .pacificblack3:hover{
+  transform: rotate(45deg);
+  }
   .blackstar6 {
     position: absolute;
     width: 40px;
     top: 210px;
     left: 420px;
+  }
+  .blackstar6:hover{
+  transform: rotate(45deg);
   }
 
   .linedstar3 {
@@ -584,6 +642,9 @@ to {
     width: 70px;
     top: 45px;
     left: 300px;
+  }
+  .linedstar3:hover{
+  transform: rotate(45deg);
   }
 
   .podskazka {
@@ -598,12 +659,18 @@ to {
     top: 400px;
     left: 0px;
   }
+  .flower5:hover{
+  transform: rotate(-45deg);
+  }
 
   .whitestar3 {
     position: absolute;
     width: 50px;
     top: 250px;
     left: 70px;
+  }
+  .whitestar3:hover{
+  transform: rotate(45deg);
   }
 
 
@@ -621,12 +688,18 @@ to {
     top: 360px;
     left: 400px;
   }
+  .pacifblack4:hover{
+  transform: rotate(45deg);
+  }
 
   .whitestar4 {
     position: absolute;
     width: 80px;
     top: 370px;
     left: 150px;
+  }
+  .whitestar4:hover{
+  transform: rotate(45deg);
   }
 
   .blackstar7 {
@@ -635,12 +708,18 @@ to {
     top: 300px;
     left: 450px;
   }
+  .blackstar7:hover{
+  transform: rotate(45deg);
+  }
 
   .blackstar8 {
     position: absolute;
     width: 50px;
     top: 50px;
     left: 170px;
+  }
+  .blackstar8:hover{
+  transform: rotate(-45deg);
   }
 
   .drop3 {
@@ -656,7 +735,9 @@ to {
     top: 360px;
     left: 350px;
   }
-
+  .pacifpink4:hover{
+  transform: rotate(45deg);
+  }
   .prolezhy {
     position: absolute;
     width: 310px;
@@ -1490,7 +1571,7 @@ animation-timing-function: linear;
 
 
       padding-top: 1%;
-      top: 31vw;
+      top: 34vw;
 
 
     }
@@ -1514,7 +1595,7 @@ animation-timing-function: linear;
       position: absolute;
       background: #303030;
       margin-top: 30px;
-      top: 24vw;
+      top: 26vw;
 
     }
     .hor2 {
@@ -1523,11 +1604,11 @@ animation-timing-function: linear;
       position: absolute;
       background: #303030;
       margin-top: 30px;
-      top: 59vw;
+      top: 63vw;
 
     }
     .sled {
-      top: 61vw;
+      top: 65vw;
     }
     .contents{
       height: 45vh;
